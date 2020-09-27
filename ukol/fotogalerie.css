@@ -1,0 +1,43 @@
+body {
+    color: #282425;
+    background-color:whitesmoke;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    padding: 50px 200px;
+    line-height: 1.5;
+}
+
+h1 {
+        font-size: 40px;
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 35px;
+        border-bottom: 3px dashed green;
+}
+
+img {
+    width: 32.5%;
+    border: 2px solid #756158;
+    border-radius: 10px;
+    
+}
+
+.menu {
+    text-align: center;
+}
+
+.menu li {
+ display: inline-block;
+ font-size: 15px;
+ border: 2px solid green;
+ background-color: rgb(189, 220, 190);
+ border-radius: 5px;
+}
+
+.menu a {
+ color: #282425;
+ text-decoration: none;
+ padding: 10px 20px;
+ display: inline-block;
+}
